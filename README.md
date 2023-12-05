@@ -11,7 +11,7 @@ para editar
 ################### variables ###############
 
 
-link_original ="https://cuevana3.ch/serie/the-walking-dead" --> url de la serie
+link_original ="cuevana3.ch/serie/the-walking-dead" --> url de la serie
 
 season_n  = 1 -> numero de la temporada que quieres
 
