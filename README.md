@@ -6,6 +6,15 @@ escraper series cuevana
 
 este escraper sirve para descargar videos de las series de  de cuevana3.ch
 
+#requisitos 
+python = 3.10.6
+chrome
+
+luego instalar los requerimientos
+
+pip install -r requirements.txt
+
+
 para editar
 
 ################### variables ###############
