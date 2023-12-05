@@ -1,3 +1,6 @@
+
+python = 3.10.6
+
 # escraper para descargar videos de series cuevana
 escraper series cuevana
 
