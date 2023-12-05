@@ -1,21 +1,23 @@
 
-python = 3.10.6
+# Scraper para Descargar Videos de Series en Cuevana
 
-# escraper para descargar videos de series cuevana
-escraper series cuevana
+Este scraper está diseñado para la descarga de videos de las series alojadas en Cuevana3.ch.
 
-este escraper sirve para descargar videos de las series de  de cuevana3.ch
+## Requisitos
 
-#requisitos 
-python = 3.10.6
-chrome
+- Python >= 3.10.6
+- Navegador Chrome instalado
 
-luego instalar los requerimientos
+## Instalación de Requerimientos
 
+Para comenzar, asegúrate de tener instalado Python 3.10.6 y Chrome. Luego, instala los paquetes necesarios ejecutando el siguiente comando en tu terminal:
+
+```bash
 pip install -r requirements.txt
+```
 
 
-para editar
+<h2>editar estas variables</h2>
 
 ################### variables ###############
 
@@ -27,7 +29,9 @@ season_n  = 1 -> numero de la temporada que quieres
 ##################################
 
 
-Contacto
-Twitter :  https://twitter.com/EsEscraper
-Email:  webescraper@gmail.com
+<h3>  Contacto</h3>
+
+<br>
+Twitter :  https://twitter.com/EsEscraper <br>
+Email:  webescraper@gmail.com <br>
 Whatsapp:  https://bit.ly/46J66Kr
