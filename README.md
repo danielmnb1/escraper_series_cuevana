@@ -18,4 +18,7 @@ season_n  = 1 -> numero de la temporada que quieres
 ##################################
 
 
-
+Contacto
+Twitter :  https://twitter.com/EsEscraper
+Email:  webescraper@gmail.com
+Whatsapp:  https://bit.ly/46J66Kr
