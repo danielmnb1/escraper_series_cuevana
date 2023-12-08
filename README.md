@@ -29,6 +29,10 @@ season_n  = 1 -> numero de la temporada que quieres
 ##################################
 
 
+## Video de como Utilizarlo
+
+https://youtu.be/VARQg45NybQ
+
 <h3>  Contacto</h3>
 
 <br>
